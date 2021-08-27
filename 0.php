@@ -1,0 +1,4 @@
+<?php
+
+// escrever código php
+
